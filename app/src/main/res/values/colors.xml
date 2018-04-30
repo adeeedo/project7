@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="politics">#FFEBEE</color>
+    <color name="world_news">#FCE4EC</color>
+    <color name="news">#EDE7F6</color>
+    <color name="football">#E3F2FD</color>
+    <color name="film">#E0F7FA</color>
+    <color name="society">#E8F5E9</color>
+    <color name="tech">#FFFDE7</color>
+    <color name="money">#FBE9E7</color>
+    <color name="business">#EFEBE9</color>
+<color name="other">#FFF3E0</color>
+</resources>
